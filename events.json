@@ -1,0 +1,9 @@
+{
+ "version": 1,
+ "multipliers": {
+  "coin": 1.0,
+  "drop": 1.0,
+  "exp": 1.0
+ },
+ "events": []
+}
